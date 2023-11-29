@@ -1,6 +1,7 @@
-name = None
-age = None
-isMale = None
-department = None
+name = "Paulo"
+age = "20"
+isMale = 'male'
+department = 'backend'
 
-print(f"{name} is an {age}-year old {'male' if isMale else 'female'} participating in {department}'s 30 Days of Coding.")
+print("Hi everyone")
+print(f"My name is {name} and I am {age}-year old {'male' if isMale else 'female'} participating in {department}'s 30 Days of Coding.")
